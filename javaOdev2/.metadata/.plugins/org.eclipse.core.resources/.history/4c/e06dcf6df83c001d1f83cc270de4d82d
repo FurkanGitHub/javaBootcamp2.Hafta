@@ -1,0 +1,7 @@
+package inheritance;
+
+public class Employee extedns Person{
+
+	double salary;
+	
+}
